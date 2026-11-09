@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" role="img" aria-labelledby="title description">
+  <title id="title">Customer RFM segment profile</title>
+  <desc id="description">Four K-means customer clusters with counts and average recency, frequency, and monetary value.</desc>
+  <rect width="1000" height="650" rx="24" fill="#f3f6fb"/>
+  <text x="54" y="67" fill="#15243a" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Customer segments</text>
+  <text x="54" y="99" fill="#617086" font-family="Segoe UI, Arial, sans-serif" font-size="16">RFM profile · 1,175 customers · averages by K-means cluster</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="50" y="132" width="435" height="210" rx="18" fill="#ffffff"/>
+    <rect x="515" y="132" width="435" height="210" rx="18" fill="#ffffff"/>
+    <rect x="50" y="366" width="435" height="210" rx="18" fill="#ffffff"/>
+    <rect x="515" y="366" width="435" height="210" rx="18" fill="#ffffff"/>
+    <text x="78" y="172" fill="#2563eb" font-size="21" font-weight="700">Cluster 0</text>
+    <text x="78" y="207" fill="#15243a" font-size="16">436 customers</text>
+    <text x="78" y="245" fill="#617086" font-size="14">Avg. recency</text>
+    <text x="425" y="245" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">29.9 days</text>
+    <text x="78" y="274" fill="#617086" font-size="14">Avg. frequency</text>
+    <text x="425" y="274" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">3.8 orders</text>
+    <text x="78" y="303" fill="#617086" font-size="14">Avg. monetary</text>
+    <text x="425" y="303" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">₹1,058</text>
+    <rect x="78" y="319" width="330" height="7" rx="4" fill="#e8eef8"/>
+    <rect x="78" y="319" width="49" height="7" rx="4" fill="#2563eb"/>
+
+    <text x="543" y="172" fill="#7c3aed" font-size="21" font-weight="700">Cluster 1</text>
+    <text x="543" y="207" fill="#15243a" font-size="16">138 customers</text>
+    <text x="543" y="245" fill="#617086" font-size="14">Avg. recency</text>
+    <text x="890" y="245" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">25.1 days</text>
+    <text x="543" y="274" fill="#617086" font-size="14">Avg. frequency</text>
+    <text x="890" y="274" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">6.8 orders</text>
+    <text x="543" y="303" fill="#617086" font-size="14">Avg. monetary</text>
+    <text x="890" y="303" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">₹7,130</text>
+    <rect x="543" y="319" width="330" height="7" rx="4" fill="#e8eef8"/>
+    <rect x="543" y="319" width="330" height="7" rx="4" fill="#7c3aed"/>
+
+    <text x="78" y="406" fill="#059669" font-size="21" font-weight="700">Cluster 2</text>
+    <text x="78" y="441" fill="#15243a" font-size="16">419 customers</text>
+    <text x="78" y="479" fill="#617086" font-size="14">Avg. recency</text>
+    <text x="425" y="479" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">9.8 days</text>
+    <text x="78" y="508" fill="#617086" font-size="14">Avg. frequency</text>
+    <text x="425" y="508" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">19.4 orders</text>
+    <text x="78" y="537" fill="#617086" font-size="14">Avg. monetary</text>
+    <text x="425" y="537" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">₹3,410</text>
+    <rect x="78" y="553" width="330" height="7" rx="4" fill="#e8eef8"/>
+    <rect x="78" y="553" width="158" height="7" rx="4" fill="#059669"/>
+
+    <text x="543" y="406" fill="#ea580c" font-size="21" font-weight="700">Cluster 3</text>
+    <text x="543" y="441" fill="#15243a" font-size="16">182 customers</text>
+    <text x="543" y="479" fill="#617086" font-size="14">Avg. recency</text>
+    <text x="890" y="479" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">110.0 days</text>
+    <text x="543" y="508" fill="#617086" font-size="14">Avg. frequency</text>
+    <text x="890" y="508" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">2.2 orders</text>
+    <text x="543" y="537" fill="#617086" font-size="14">Avg. monetary</text>
+    <text x="890" y="537" text-anchor="end" fill="#15243a" font-size="15" font-weight="600">₹686</text>
+    <rect x="543" y="553" width="330" height="7" rx="4" fill="#e8eef8"/>
+    <rect x="543" y="553" width="32" height="7" rx="4" fill="#ea580c"/>
+  </g>
+  <text x="54" y="615" fill="#8290a3" font-family="Segoe UI, Arial, sans-serif" font-size="13">Bar length shows average monetary value relative to the highest-spend cluster.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title description">
+  <title id="title">Support ticket triage routing summary</title>
+  <desc id="description">Routing results for 164 tickets across support queue, security team, human review, and premium desk.</desc>
+  <rect width="1000" height="600" rx="24" fill="#f3f6fb"/>
+  <text x="54" y="68" fill="#15243a" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Support ticket triage</text>
+  <text x="54" y="101" fill="#617086" font-family="Segoe UI, Arial, sans-serif" font-size="16">164 tickets processed · routing destinations</text>
+  <rect x="50" y="130" width="900" height="405" rx="18" fill="#ffffff"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="88" y="185" fill="#617086" font-size="14">ROUTE</text>
+    <text x="854" y="185" text-anchor="end" fill="#617086" font-size="14">TICKETS</text>
+    <text x="88" y="239" fill="#15243a" font-size="17" font-weight="600">Support queue</text>
+    <rect x="300" y="220" width="440" height="22" rx="11" fill="#e8eef8"/>
+    <rect x="300" y="220" width="440" height="22" rx="11" fill="#2563eb"/>
+    <text x="854" y="239" text-anchor="end" fill="#15243a" font-size="17" font-weight="700">102 · 62.2%</text>
+    <text x="88" y="309" fill="#15243a" font-size="17" font-weight="600">Security team</text>
+    <rect x="300" y="290" width="440" height="22" rx="11" fill="#e8eef8"/>
+    <rect x="300" y="290" width="147" height="22" rx="11" fill="#dc2626"/>
+    <text x="854" y="309" text-anchor="end" fill="#15243a" font-size="17" font-weight="700">34 · 20.7%</text>
+    <text x="88" y="379" fill="#15243a" font-size="17" font-weight="600">Human review</text>
+    <rect x="300" y="360" width="440" height="22" rx="11" fill="#e8eef8"/>
+    <rect x="300" y="360" width="73" height="22" rx="11" fill="#f59e0b"/>
+    <text x="854" y="379" text-anchor="end" fill="#15243a" font-size="17" font-weight="700">17 · 10.4%</text>
+    <text x="88" y="449" fill="#15243a" font-size="17" font-weight="600">Premium desk</text>
+    <rect x="300" y="430" width="440" height="22" rx="11" fill="#e8eef8"/>
+    <rect x="300" y="430" width="48" height="22" rx="11" fill="#7c3aed"/>
+    <text x="854" y="449" text-anchor="end" fill="#15243a" font-size="17" font-weight="700">11 · 6.7%</text>
+    <line x1="88" y1="482" x2="910" y2="482" stroke="#e8eef8" stroke-width="2"/>
+    <text x="88" y="515" fill="#617086" font-size="14">Percentages use all processed tickets, including those routed for review.</text>
+  </g>
+</svg>

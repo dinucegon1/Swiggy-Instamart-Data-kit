@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="690" viewBox="0 0 1000 690" role="img" aria-labelledby="title description">
+  <title id="title">Illustrative refund policy outcomes</title>
+  <desc id="description">Four sample orders illustrate the late-delivery refund policy, including automatic approval, human approval, no refund, and cancelled order outcomes.</desc>
+  <rect width="1000" height="690" rx="24" fill="#f3f6fb"/>
+  <text x="54" y="67" fill="#15243a" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Refund policy examples</text>
+  <text x="54" y="100" fill="#617086" font-family="Segoe UI, Arial, sans-serif" font-size="16">Sample orders from the synthetic dataset · policy-based illustration</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="50" y="132" width="435" height="190" rx="18" fill="#ffffff"/>
+    <rect x="515" y="132" width="435" height="190" rx="18" fill="#ffffff"/>
+    <rect x="50" y="344" width="435" height="190" rx="18" fill="#ffffff"/>
+    <rect x="515" y="344" width="435" height="190" rx="18" fill="#ffffff"/>
+    <rect x="78" y="158" width="120" height="26" rx="13" fill="#dcfce7"/>
+    <text x="138" y="176" text-anchor="middle" fill="#15803d" font-size="12" font-weight="700">AUTO APPROVAL</text>
+    <text x="78" y="218" fill="#15243a" font-size="18" font-weight="700">ORD-100048</text>
+    <text x="78" y="249" fill="#617086" font-size="14">Completed · delivered in 65 min</text>
+    <text x="78" y="281" fill="#15243a" font-size="16" font-weight="700">Refund ₹128.25</text>
+    <text x="78" y="305" fill="#617086" font-size="13">Over 45 min · amount is within ₹1,000 limit</text>
+
+    <rect x="543" y="158" width="150" height="26" rx="13" fill="#fef3c7"/>
+    <text x="618" y="176" text-anchor="middle" fill="#a16207" font-size="12" font-weight="700">HUMAN APPROVAL</text>
+    <text x="543" y="218" fill="#15243a" font-size="18" font-weight="700">ORD-100145</text>
+    <text x="543" y="249" fill="#617086" font-size="14">Completed · delivered in 54 min</text>
+    <text x="543" y="281" fill="#15243a" font-size="16" font-weight="700">Escalate ₹1,999.00</text>
+    <text x="543" y="305" fill="#617086" font-size="13">Over 45 min · above ₹1,000 needs lead approval</text>
+
+    <rect x="78" y="370" width="105" height="26" rx="13" fill="#e2e8f0"/>
+    <text x="130" y="388" text-anchor="middle" fill="#475569" font-size="12" font-weight="700">NOT ELIGIBLE</text>
+    <text x="78" y="430" fill="#15243a" font-size="18" font-weight="700">ORD-100001</text>
+    <text x="78" y="461" fill="#617086" font-size="14">Completed · delivered in 20 min</text>
+    <text x="78" y="493" fill="#15243a" font-size="16" font-weight="700">No late-delivery refund</text>
+    <text x="78" y="517" fill="#617086" font-size="13">Delivery time is 45 minutes or less</text>
+
+    <rect x="543" y="370" width="105" height="26" rx="13" fill="#e2e8f0"/>
+    <text x="595" y="388" text-anchor="middle" fill="#475569" font-size="12" font-weight="700">CANCELLED</text>
+    <text x="543" y="430" fill="#15243a" font-size="18" font-weight="700">ORD-100020</text>
+    <text x="543" y="461" fill="#617086" font-size="14">Cancelled · no delivery recorded</text>
+    <text x="543" y="493" fill="#15243a" font-size="16" font-weight="700">No refund under this policy</text>
+    <text x="543" y="517" fill="#617086" font-size="13">Cancelled orders were not charged</text>
+  </g>
+  <rect x="50" y="558" width="900" height="88" rx="14" fill="#fff7ed"/>
+  <text x="76" y="590" fill="#9a3412" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Illustrative only — not a transaction log.</text>
+  <text x="76" y="616" fill="#7c4a31" font-family="Segoe UI, Arial, sans-serif" font-size="13">The program does not record refund decisions. Request timing within 7 days is not evaluated here.</text>
+</svg>
